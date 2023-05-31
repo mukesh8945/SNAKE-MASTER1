@@ -1,1 +1,1 @@
-# SNAKE-MASTER1
+# html-css-js-project-boilerplate
